@@ -1,6 +1,6 @@
 {
   "name": "choose-typed-array",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Chooses the Best Typed Array to use for an Array of Number. Supports Big Integers!",
   "main": "choose-typed-array.js",
   "scripts": {
