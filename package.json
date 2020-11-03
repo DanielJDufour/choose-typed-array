@@ -1,0 +1,35 @@
+{
+  "name": "choose-typed-array",
+  "version": "0.0.0",
+  "description": "Chooses the Best Typed Array to use for an Array of Number. Supports Big Integers!",
+  "main": "choose-typed-array.js",
+  "scripts": {
+    "format": "npx prettier --print-width=120 --trailing-comma=none --write *.js",
+    "test": "npx ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/choose-typed-array.git"
+  },
+  "keywords": [
+    "array",
+    "typed",
+    "typedarray",
+    "int8array",
+    "uint8array",
+    "int16array",
+    "uint16array",
+    "int32array",
+    "uint32array",
+    "float32array",
+    "float64array",
+    "bigint64array",
+    "biguint64array"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/choose-typed-array/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/choose-typed-array#readme"
+}
